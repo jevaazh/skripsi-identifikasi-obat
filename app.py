@@ -31,39 +31,39 @@ KATEGORI_OBAT = {
         "Amlodipine 5mg": {"nama": "Amlodipine 5 mg", "pabrik": "PT Anugrah Amartha Global (OGB Dexa)"},
         "Amlodipine 10mg": {"nama": "Amlodipine 10 mg", "pabrik": "PT Anugrah Amartha Global (OGB Dexa)"},
         "Candesartan Cilexetil 8mg": {"nama": "Candesartan Cilexetil 8 mg", "pabrik": "PT Pharmacon (OGB Dexa)"},
-        "Concor 2.5mg": {"nama": "Concor (Bisoprolol Fumarate) 2.5 mg", "pabrik": "PT Merck"},
-        "Irbesartan 150mg": {"nama": "Irbesartan 150 mg", "pabrik": "Novell PT Pharmaceutical Lab"}
+        "Concor 2.5mg": {"nama": "Concor (Bisoprolol Fumarate) 2.5 mg", "pabrik": "PT Merck Tbk"},
+        "Irbesartan 150mg": {"nama": "Irbesartan 150 mg", "pabrik": "PT Novell Pharmaceutical Laboratories"}
     },
     "Antiplatelet (Pengencer Darah)": {
-        "Ascardia 80mg": {"nama": "Ascardia (Acetylsalicylic Acid) 80 mg", "pabrik": "Pharos Jkt"},
-        "Aspilets 100mg": {"nama": "Aspilets 100 mg", "pabrik": "Darya Varia"},
-        "Thrombo Aspilets 100mg": {"nama": "Thrombo Aspilets 100 mg", "pabrik": "Darya Varia Laboratoria Tbk"}
+        "Ascardia 80mg": {"nama": "Ascardia (Acetylsalicylic Acid) 80 mg", "pabrik": "PT Pharos Indonesia"},
+        "Aspilets 100mg": {"nama": "Aspilets 100 mg", "pabrik": "PT Darya-Varia Laboratoria Tbk"},
+        "Thrombo Aspilets 100mg": {"nama": "Thrombo Aspilets 100 mg", "pabrik": "PT Darya-Varia Laboratoria Tbk"}
     },
     "Kolesterol": {
-        "Atorvastatin 20mg": {"nama": "Atorvastatin 20 mg", "pabrik": "PT Otto Pharmaceutical"},
-        "Simvastatin 10mg": {"nama": "Simvastatin 10 mg", "pabrik": "PT Dexa Medika (OGB Dexa)"},
-        "Simvastatin 20mg": {"nama": "Simvastatin 20 mg", "pabrik": "Hexpharmjaya (HJ)"}
+        "Atorvastatin 20mg": {"nama": "Atorvastatin 20 mg", "pabrik": "PT Otto Pharmaceutical Industries"},
+        "Simvastatin 10mg": {"nama": "Simvastatin 10 mg", "pabrik": "PT Dexa Medica (OGB Dexa)"},
+        "Simvastatin 20mg": {"nama": "Simvastatin 20 mg", "pabrik": "PT Hexpharm Jaya (HJ)"}
     },
     "Tiroid": {
-        "Eutyrox 100mcg": {"nama": "Euthyrox 100 microgram", "pabrik": "Merck Healthcare"}
+        "Eutyrox 100mcg": {"nama": "Euthyrox 100 microgram", "pabrik": "PT Merck Tbk (Merck Healthcare)"}
     },
     "Diabetes": {
-        "Forxiga 10mg": {"nama": "Forxiga (Dapagliflozin) 10 mg", "pabrik": "AstraZeneca"},
+        "Forxiga 10mg": {"nama": "Forxiga (Dapagliflozin) 10 mg", "pabrik": "PT AstraZeneca Indonesia"},
         "Glimepiride 1mg": {"nama": "Glimepiride 1 mg", "pabrik": "PT Beta Pharmacon (OGB Dexa)"},
-        "Metformin 500mg": {"nama": "Metformin 500 mg", "pabrik": "Hexpharmjaya (HJ)"}
+        "Metformin 500mg": {"nama": "Metformin 500 mg", "pabrik": "PT Hexpharm Jaya (HJ)"}
     },
     "Asam Urat": {
-        "Allopurinol 100mg": {"nama": "Allopurinol 100 mg", "pabrik": "Hexpharmjaya (HJ)"}
+        "Allopurinol 100mg": {"nama": "Allopurinol 100 mg", "pabrik": "PT Hexpharm Jaya (HJ)"}
     },
     "Alergi": {
-        "Loratadine 10mg": {"nama": "Loratadine 10 mg", "pabrik": "Hexpharmjaya (HJ)"}
+        "Loratadine 10mg": {"nama": "Loratadine 10 mg", "pabrik": "PT Hexpharm Jaya (HJ)"}
     },
     "Vitamin / Saraf": {
-        "Mecobalamin 500mcg": {"nama": "Mecobalamin 500 mcg", "pabrik": "PT Etercon Pharma Novell"}
+        "Mecobalamin 500mcg": {"nama": "Mecobalamin 500 mcg", "pabrik": "PT Etercon Pharma (Novell Group)"}
     },
     "Sendi & Tulang": {
-        "Calcifar Plus": {"nama": "Calcifar Plus (Kalsium + Vitamin D3)", "pabrik": "PT Ifars"},
-        "Glucosamine MPL 500mg": {"nama": "Glucosamine MPL 500 mg (Sendi)", "pabrik": "Medikon"}
+        "Calcifar Plus": {"nama": "Calcifar Plus (Kalsium + Vitamin D3)", "pabrik": "PT Ifars Pharmaceutical Laboratories"},
+        "Glucosamine MPL 500mg": {"nama": "Glucosamine MPL 500 mg (Sendi)", "pabrik": "PT Medikon Prima Laboratories"}
     }
 }
 
