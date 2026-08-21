@@ -28,42 +28,42 @@ COLOR_RANGES = {
 # ===== KAMUS OBAT & PABRIKAN BERDASARKAN KATEGORI PENYAKIT =====
 KATEGORI_OBAT = {
     "Hipertensi (Darah Tinggi)": {
-        "Amlodipine 5mg": {"nama": "Amlodipine 5 mg", "pabrik": "PT Dexa Medica (OGB Dexa)"},
-        "Amlodipine 10mg": {"nama": "Amlodipine 10 mg", "pabrik": "PT Dexa Medica (OGB Dexa)"},
-        "Candesartan Cilexetil 8mg": {"nama": "Candesartan Cilexetil 8 mg", "pabrik": "PT Dexa Medica (OGB Dexa)"},
-        "Concor 2.5mg": {"nama": "Concor (Bisoprolol Fumarate) 2.5 mg", "pabrik": "PT Merck Tbk"},
-        "Irbesartan 150mg": {"nama": "Irbesartan 150 mg", "pabrik": "PT Novell Pharmaceutical Laboratories"}
+        "Amlodipine 5mg": {"nama": "Amlodipine 5 mg", "pabrik": "PT Anugrah Amartha Global (OGB Dexa)"},
+        "Amlodipine 10mg": {"nama": "Amlodipine 10 mg", "pabrik": "PT Anugrah Amartha Global (OGB Dexa)"},
+        "Candesartan Cilexetil 8mg": {"nama": "Candesartan Cilexetil 8 mg", "pabrik": "PT Pharmacon (OGB Dexa)"},
+        "Concor 2.5mg": {"nama": "Concor (Bisoprolol Fumarate) 2.5 mg", "pabrik": "PT Merck"},
+        "Irbesartan 150mg": {"nama": "Irbesartan 150 mg", "pabrik": "Novell PT Pharmaceutical Lab"}
     },
     "Antiplatelet (Pengencer Darah)": {
-        "Ascardia 80mg": {"nama": "Ascardia (Acetylsalicylic Acid) 80 mg", "pabrik": "PT Pharos Indonesia"},
-        "Aspilets 100mg": {"nama": "Aspilets 100 mg", "pabrik": "PT Darya-Varia Laboratoria Tbk"},
-        "Thrombo Aspilets 100mg": {"nama": "Thrombo Aspilets 100 mg", "pabrik": "PT Darya-Varia Laboratoria Tbk"}
+        "Ascardia 80mg": {"nama": "Ascardia (Acetylsalicylic Acid) 80 mg", "pabrik": "Pharos Jkt"},
+        "Aspilets 100mg": {"nama": "Aspilets 100 mg", "pabrik": "Darya Varia"},
+        "Thrombo Aspilets 100mg": {"nama": "Thrombo Aspilets 100 mg", "pabrik": "Darya Varia Laboratoria Tbk"}
     },
     "Kolesterol": {
-        "Atorvastatin 20mg": {"nama": "Atorvastatin 20 mg", "pabrik": "PT Otto Pharmaceutical Laboratories"},
-        "Simvastatin 10mg": {"nama": "Simvastatin 10 mg", "pabrik": "PT Dexa Medica (OGB Dexa)"},
-        "Simvastatin 20mg": {"nama": "Simvastatin 20 mg", "pabrik": "PT Hexpharm Jaya Laboratories"}
+        "Atorvastatin 20mg": {"nama": "Atorvastatin 20 mg", "pabrik": "PT Otto Pharmaceutical"},
+        "Simvastatin 10mg": {"nama": "Simvastatin 10 mg", "pabrik": "PT Dexa Medika (OGB Dexa)"},
+        "Simvastatin 20mg": {"nama": "Simvastatin 20 mg", "pabrik": "Hexpharmjaya (HJ)"}
     },
     "Tiroid": {
-        "Eutyrox 100mcg": {"nama": "Euthyrox 100 microgram", "pabrik": "PT Merck Tbk (Merck Healthcare)"}
+        "Eutyrox 100mcg": {"nama": "Eutyrox 100 microgram", "pabrik": "Merck Healthcare"}
     },
     "Diabetes": {
-        "Forxiga 10mg": {"nama": "Forxiga (Dapagliflozin) 10 mg", "pabrik": "PT AstraZeneca Indonesia"},
-        "Glimepiride 1mg": {"nama": "Glimepiride 1 mg", "pabrik": "PT Dexa Medica (OGB Dexa)"},
-        "Metformin 500mg": {"nama": "Metformin 500 mg", "pabrik": "PT Hexpharm Jaya Laboratories"}
+        "Forxiga 10mg": {"nama": "Forxiga (Dapagliflozin) 10 mg", "pabrik": "AstraZeneca"},
+        "Glimepiride 1mg": {"nama": "Glimepiride 1 mg", "pabrik": "PT Beta Pharmacon (OGB Dexa)"},
+        "Metformin 500mg": {"nama": "Metformin 500 mg", "pabrik": "Hexpharmjaya (HJ)"}
     },
     "Asam Urat": {
-        "Allopurinol 100mg": {"nama": "Allopurinol 100 mg", "pabrik": "PT Hexpharm Jaya Laboratories"}
+        "Allopurinol 100mg": {"nama": "Allopurinol 100 mg", "pabrik": "Hexpharmjaya (HJ)"}
     },
     "Alergi": {
-        "Loratadine 10mg": {"nama": "Loratadine 10 mg", "pabrik": "PT Hexpharm Jaya Laboratories"}
+        "Loratadine 10mg": {"nama": "Loratadine 10 mg", "pabrik": "Hexpharmjaya (HJ)"}
     },
     "Vitamin / Saraf": {
-        "Mecobalamin 500mcg": {"nama": "Mecobalamin 500 mcg", "pabrik": "PT Novell Pharmaceutical Laboratories"}
+        "Mecobalamin 500mcg": {"nama": "Mecobalamin 500 mcg", "pabrik": "PT Etercon Pharma Novell"}
     },
     "Sendi & Tulang": {
-        "Calcifar Plus": {"nama": "Calcifar Plus (Kalsium + Vitamin D3)", "pabrik": "PT Ifars Pharmaceutical Laboratories"},
-        "Glucosamine MPL 500mg": {"nama": "Glucosamine MPL 500 mg (Sendi)", "pabrik": "PT Medikon Prima Laboratories"}
+        "Calcifar Plus": {"nama": "Calcifar Plus (Kalsium + Vitamin D3)", "pabrik": "PT Ifars"},
+        "Glucosamine MPL 500mg": {"nama": "Glucosamine MPL 500 mg (Sendi)", "pabrik": "Medikon"}
     }
 }
 
