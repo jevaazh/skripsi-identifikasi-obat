@@ -45,7 +45,7 @@ KATEGORI_OBAT = {
         "Simvastatin 20mg": {"nama": "Simvastatin 20 mg", "pabrik": "PT Hexpharm Jaya Laboratories"}
     },
     "Tiroid": {
-        "Eutyrox 100mcg": {"nama": "Eutyrox 100 microgram", "pabrik": "PT Merck Tbk (Merck Healthcare)"}
+        "Eutyrox 100mcg": {"nama": "Euthyrox 100 microgram", "pabrik": "PT Merck Tbk (Merck Healthcare)"}
     },
     "Diabetes": {
         "Forxiga 10mg": {"nama": "Forxiga (Dapagliflozin) 10 mg", "pabrik": "PT AstraZeneca Indonesia"},
